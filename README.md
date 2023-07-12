@@ -7,12 +7,9 @@ Aqui você vai encontrar todos os meus projetos, desde os trabalhos de faculdade
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ```
- Apaixonada por tecnologia, programação e 
- solução de problemas. Encontrei dentro da 
- TI a forma de unir duas paixões: Estudar
- e programar ❤️
+     Apaixonada por tecnologia, programação e solução de problemas. Encontrei dentro 
+     da TI a forma de unir duas paixões: Estudar e programar ❤️
 ```
-
 
 ## 💻Onde me encontrar 
 
