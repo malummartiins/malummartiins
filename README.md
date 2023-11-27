@@ -17,7 +17,7 @@ Aqui você vai encontrar todos os meus projetos, desde os trabalhos de faculdade
 </p>
 
 <p align="left">
-  💼 Utilidades
+  💼 Utilidades:
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
