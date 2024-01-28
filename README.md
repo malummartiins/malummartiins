@@ -3,7 +3,7 @@
 <p align="left">
      <h1>Malú M. Martins</h1>
 Em transição de carreira, Cursando Análise e Desenvolvimento de Sistemas.
-Aqui você vai encontrar todos os meus projetos, desde os trabalhos de faculdade até os que idealizei. 💾 <strong>Frontend developer </strong>⌨️.
+Aqui você vai encontrar todos os meus projetos, desde os trabalhos de faculdade até os que idealizei. 💾 <strong>Software developer </strong>⌨️.
 </p>
 
 <p align="left">
